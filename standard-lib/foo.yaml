@@ -1,0 +1,9 @@
+someStr: "SOMESTR"
+someInt: 3
+someList:
+  - 1
+  - 2
+  - 3
+some:
+  other:
+    name: "SOMEOTHERNAME"
